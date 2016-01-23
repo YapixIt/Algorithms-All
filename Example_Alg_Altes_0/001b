@@ -1,0 +1,27 @@
+/**
+ * @since VerifierYapix 0.0.1
+ * @Author Yapix
+ * @AltesVersion Alpha 0.000.001AC
+ * @ApiVersion Beta 0.0.1
+ * @UserName 5850df7a-b25f-47e6-9fc2-6630f51381f2
+ * @Description Test.
+ * @DocRepertory N
+ */
+ 
+#import client:system:object:text:*;
+#import client:system:object:math:*;
+#import client:out:communication:*;
+#import client:system:object:send:*;
+#import inter:*;
+#import server:*;
+
+
+private final boolean E = #~AlteSQL~# SELECT * FROM *;
+
+
+yap(E == true, E != 0, E*)
+{
+  Client.send(E);
+}
+-- #~SkypeBatch~#
+-- #~AlteSQL~#
