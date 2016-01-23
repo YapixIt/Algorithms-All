@@ -1,0 +1,13 @@
+La théorie des languages:
+
+Regles de grammaire du language(alghorithmie)
+Basique.0AAA.01
+
+DEFINIR k(Mot_Clé_Language), b(Boucle), pi(Plus_Important), mi(Moins_Important), ab(A_Besoin), arg(Argument), t(Type), ml(Machine_Learning), r(Résultat), er(En_Rapport)
+
+b ab k + arg[arg -= k] SI 
+{
+	b != null[arg];
+	!ab k[arg[k, b]];
+	t = arg.use[k[type], b[type]] + ab (pi[arg], m[-arg]) ab !k[string], b[string] += (k[arg[search_alg=[arg[type] !b]]]) = r[er[arg->string[arg->recherche] - (pi[regles] + mi[regles]]];	
+}
