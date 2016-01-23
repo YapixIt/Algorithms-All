@@ -1,0 +1,55 @@
+Démonstration algorithmique du passage dun simple programme C++, qui ajoute 2 à une valeur x, à un algo-prog Altes.
+
+C++
+
+
+#include "math.h"
+
+int addTwo(int recupNumber)
+{
+    int value(recupNumber + 2);
+
+    return value;
+}
+
+
+AlgAltes
+
+TACHE QUE VOIT UNIQUEMENT LE COMPILATEUR && LINTERPRETEUR
+
+DEFINE included(sourcePath::file[file[getName], sdkFile]);
+	def: 
+		sourcePath();
+DEFINE mainProgram();
+DEFINE int(number.between[int.[getMinValue(-x)] && [int.[getMaxValue(x)]);
+	def:
+		number(N);
+			N();	//Natural integer
+		between();
+DEFINE plus();
+DEFINE var();
+DEFINE arg();
+DEFINE returnValue();
+
+RESULTAT FINAL(ATTENTION syntaxe non définitive)
+
+/**
+ * @package null
+ * @subpackage null
+ * @since VerifierYapix 0.0.1
+ * @Author Yapix
+ * @AltesVersion Alpha 0.000.001
+ * @ApiVersion Beta 0.0.1
+ * @UserName 5850df7a-b25f-47e6-9fc2-6630f51381f2
+ * @Description Test
+ * @DocRepertory Y 
+ */
+
+import path.math.*;
+
+implement MingW32;
+
+using AltesAlg;
+using C++;
+
+//A finir
