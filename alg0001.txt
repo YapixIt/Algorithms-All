@@ -1,0 +1,5 @@
+0)-> 1 || 0
+	if (scope.bit [ 0 || 1] && scope.bit != NULL)
+		DEFINE ch_scope scope.bit(scope.Chance[0, 1]
+	else 
+		<-!ch_scope
