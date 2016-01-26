@@ -1,0 +1,5 @@
+1)-> ch.[0, 1] ^ 2
+	if (scope.bit [00 || 01 || 10 || 11] && scope.bit != NULL)
+		DEFINE ch_scope scope.bit(scope.Chance[0, 1, [00, 11], [01, 10]]
+	else 
+		<-!ch_scope
